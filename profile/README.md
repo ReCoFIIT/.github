@@ -57,4 +57,4 @@ Modules are organized in a [**polyrepository**](https://github.com/ReCoFIIT/reco
 ## 📚 Documentation
 
 Each component contains its own documentation in the respective repositories.  
-Start with the [**ReCo Polyrepository**](https://github.com/ReCoFIIT/reco) for full system architecture and setup instructions.
+Start with the [**ReCo Polyrepository**](https://github.com/ReCoFIIT/reco). For full system architecture and setup instructions see the [**Documentation repository**](https://github.com/ReCoFIIT/documentation)
