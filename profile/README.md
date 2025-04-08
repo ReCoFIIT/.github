@@ -3,7 +3,7 @@
 **ReCo** is an open-source evaluation platform for cooperative driving using RC cars.  
 It provides a controlled environment for testing and evaluating algorithms and strategies in cooperative driving—perfect for both research and development.
 
-Originally developed at **FIIT, Slovak Technical University** in Bratislava, ReCo is now being actively maintained by the open-source community.
+Originally developed at **FIIT, Slovak Technical University** in Bratislava.
 
 ---
 
