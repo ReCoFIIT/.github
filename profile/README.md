@@ -20,7 +20,7 @@ ReCo is made up of several interconnected components categorized into:
 ## 🛠️ Hardware
 
 - **[KiCad PCB](https://github.com/ReCoFIIT/KiCad)** – Custom PCB designs for onboard electronics  
-- **[3D Printable Files]()** – STL models for mechanical parts *(Link coming soon)*
+- **[3D Printable Files](https://github.com/ReCoFIIT/hardware)** – STL models for mechanical parts *(Link coming soon)*
 
 ---
 
